@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">Mache.id</h1>
 
-## Getting Started
+### **Platform Event SMA N 5 Yogyakarta**
 
-First, run the development server:
+### **🔥 Coming Soon, But You Can Peek the Preview Now!**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Selamat datang di repositori resmi **Mache.id**, sebuah ruang digital baru yang sedang disiapkan untuk menghadirkan kembali energi, kreativitas, dan euforia setiap event di SMA Negeri 5 Yogyakarta.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Sesuatu yang akan terasa lebih hidup.  
+Lebih modern.  
+Lebih “event vibe”.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎤 Apa Itu Mache.id?
 
-## Learn More
+Bayangkan sebuah platform yang terasa seperti:
 
-To learn more about Next.js, take a look at the following resources:
+- membuka website festival musik,
+- teaser event SMA bergengsi,
+- atau portal countdown untuk acara besar,  
+  tapi semuanya khusus untuk **SMA Negeri 5 Yogyakarta**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Itulah arah Mache.id.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚡ Mengapa Mache.id Dibuat?
 
-## Deploy on Vercel
+Karena event sekolah itu **bukan hanya acara**.  
+Itu momen.  
+Itu kenangan.  
+Itu cerita yang harus ditampilkan dengan cara yang lebih megah.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Mache.id hadir untuk:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Menyatukan seluruh event dalam satu portal
+- Membuatnya mudah ditemukan & diikuti
+- Memberikan wajah baru bagi kegiatan sekolah
+- Membawa vibe event profesional ke lingkungan SMA Negeri 5 Yogyakarta
+
+Ini bukan sekadar website, tetapi ini juga ekosistem event sekolah versi upgrade.
+
+---
+
+## 🌠 Sudah Penasaran?
+
+Walau masih dalam tahap pengembangan, kamu **sudah bisa mengintip tampilan awalnya** di:
+
+👉 **https://mache.id**
+
+Tampilan akan terus berkembang, berubah, dan mengarah ke sesuatu yang jauh lebih besar dari yang ada sekarang.
+
+---
+
+## ⏳ Status
+
+> **mache.id masih dalam tahap pembangunan.  
+> Sesuatu sedang dipersiapkan.  
+> Dan percayalah, ini baru pemanasan.**
+
+---
+
+## 💛 Dibuat Oleh & Untuk SMA Negeri 5 Yogyakarta
+
+mache.id adalah wujud kreativitas siswa yang ingin menghadirkan pengalaman event yang lebih keren, lebih menyatu, dan lebih bermakna.
+
+**Stay tuned.  
+Stay excited.  
+Something big is coming.**
